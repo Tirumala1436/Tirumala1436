@@ -1,5 +1,8 @@
-[![MasterHead]https://camo.githubusercontent.com/9bf774bb4c2bcec49c11340d1d2ddd4401b685bafa45e5404237c89fd36a4c12/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)]
+[![MasterHead](https://camo.githubusercontent.com/9bf774bb4c2bcec49c11340d1d2ddd4401b685bafa45e5404237c89fd36a4c12/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)]
 (https://github.com/Tirumala1436)
+
+
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)](https://github.com/Tirumala1436))
 <h1 align="center">Hi 👋, I'm Tirumala Reddy B H</h1>
 <h3 align="center">A Dedicated VLSI Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqa251ODF4ZW5uZzNwaG5tYW5mbjByZ3d5bmN6OWsxOGUzaHI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
