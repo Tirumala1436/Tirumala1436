@@ -1,4 +1,4 @@
-[![MasterHead](https://altair.com/images/default-source/resource-images/semiconductor_track_thumb-jpg.jpg?sfvrsn=ae469f37_0)](https://github.com/Tirumala1436)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/Tirumala1436)
 <h1 align="center">Hi 👋, I'm Tirumala Reddy B H</h1>
 <h3 align="center">A Dedicated VLSI Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqa251ODF4ZW5uZzNwaG5tYW5mbjByZ3d5bmN6OWsxOGUzaHI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
