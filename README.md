@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **thirumala676@gmail.com**
 
-- 📄 Know about my experiences (https://www.credly.com/users/tirumala-reddy-b-h)
+- 📄 Know about my experiences https://www.credly.com/users/tirumala-reddy-b-h
 
 - ⚡ Fun fact **Playing Cricaket, Cooking**
 
