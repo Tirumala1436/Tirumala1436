@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **VLSI Desigen and Sumalation, Cryptology**
 
-- 🤝 I’m I’m interested in **System-on-chip (SoC) cybersecurity, ASIC Security and Cryptology**
+- 🤝 I’m interested in **System-on-chip (SoC) cybersecurity, ASIC Security and Cryptology**
 
 - 👨‍💻 All of my projects are available at [XYZ](XYZ)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **thirumala676@gmail.com**
 
-- 📄 Know about my experiences [XYZ](XYZ)
+- 📄 Know about my experiences (https://www.credly.com/users/tirumala-reddy-b-h)
 
 - ⚡ Fun fact **Playing Cricaket, Cooking**
 
