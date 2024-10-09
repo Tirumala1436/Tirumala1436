@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGAzxiS4TJuGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728332205855?e=1733961600&v=beta&t=ipuuzWxAe1kbRMLt0vkl33RtW_rwaBUKr5_n_v26TC0)](https://github.com/Tirumala1436)
 <h1 align="center">Hi 👋, I'm Tirumala Reddy B H</h1>
 <h3 align="center">A Dedicated VLSI Engineer from India</h3>
-<img align="right" alt="Coding" width="390" src="https://ik.imagekit.io/kvytj0hxj/Avaintern/courses/vlsi.png?updatedAt=1720341415374">
+<img align="right" alt="Coding" width="385" src="https://ik.imagekit.io/kvytj0hxj/Avaintern/courses/vlsi.png?updatedAt=1720341415374">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirumala1436&label=Profile%20views&color=0e75b6&style=flat" alt="tirumala1436" /> </p>
 
 - 🔭 I’m currently working on **Random Number Generator**
