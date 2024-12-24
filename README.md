@@ -10,7 +10,7 @@
 
 - 🤝 I’m interested in **System-on-chip (SoC) cybersecurity, ASIC Security and Cryptology**
 
-- 👨‍💻 All of my projects are available at [XYZ]((https://drive.google.com/drive/folders/1X2Ykv96Oa-iV6ILzGX2SZnK66inmcktA))
+- 👨‍💻 All of my projects are available at [Resume]([https://drive.google.com/drive/folders/1X2Ykv96Oa-iV6ILzGX2SZnK66inmcktA]))
 
 - 💬 Ask me about **VLSI and Cryptology**
 
