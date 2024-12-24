@@ -10,7 +10,7 @@
 
 - 🤝 I’m interested in **System-on-chip (SoC) cybersecurity, ASIC Security and Cryptology**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tirumala1436]([XYZ])
+- 👨‍💻 All of my projects are available at [https://github.com/Tirumala1436]([https://github.com/Tirumala1436])
 
 - 💬 Ask me about **VLSI and Cryptology**
 
