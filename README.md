@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGAzxiS4TJuGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728332205855?e=1733961600&v=beta&t=ipuuzWxAe1kbRMLt0vkl33RtW_rwaBUKr5_n_v26TC0)](https://github.com/Tirumala1436)
+[![MasterHead](https://camo.githubusercontent.com/26f9c8b7fadcba88f36850ef60d0fec83ea2a48807662d3ea9b010e4f05ef02e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)](https://github.com/Tirumala1436)
 <h1 align="center">Hi 👋, I'm Tirumala Reddy B H</h1>
 <h3 align="center">A Dedicated VLSI Engineer from India</h3>
 <img align="right" alt="Coding" width="385" src="https://ik.imagekit.io/kvytj0hxj/Avaintern/courses/vlsi.png?updatedAt=1720341415374">
