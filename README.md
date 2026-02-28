@@ -1,12 +1,8 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGAzxiS4TJuGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728332205855?e=1773878400&v=beta&t=85vrSOXjaQoIvnfEfYII9DiqK1bM6JeIV3spVk71Hgs)](https://github.com/Tirumala1436)
 <h1 align="center">Hi 👋, I'm Tirumala Reddy B H</h1>
 <h3 align="center">Analog & Mixed-Signal VLSI Engineer | M.Tech @ IIT Dharwad</h3>
-
-<p align="center">
-  <img src="https://komarev.com" alt="tirumala1436" />
-</p>
-
-<img align="right" alt="Coding" width="350" src="https://ik.imagekit.io">
+<img align="right" alt="Coding" width="385" src="https://ik.imagekit.io/kvytj0hxj/Avaintern/courses/vlsi.png?updatedAt=1720341415374">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirumala1436&label=Profile%20views&color=0e75b6&style=flat" alt="tirumala1436" /> </p>
 
 - 🔭 **Current Focus:** High-speed **True Random Number Generator (TRNG)** using 65nm CMOS.
 - 👯 **Collaborations:** Open to projects in **Analog IC Design, RF Front-ends, and Hardware Security**.
@@ -17,29 +13,6 @@
 - 📄 **Portfolio:** [Credly Certifications](https://www.credly.com)
 - ⚡ **Fun fact:** I enjoy **Cricket** and **Cooking** when I'm not tweaking W/L ratios.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com" target="blank"><img align="center" src="https://raw.githubusercontent.com" alt="HackerEarth" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org" target="blank"><img align="center" src="https://raw.githubusercontent.com" alt="GFG" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Industry Tools:</h3>
-<p align="left"> 
-  <!-- Coding -->
-  <img src="https://raw.githubusercontent.com" alt="c" width="40" height="40""")/>> 
-  <img src="https://raw.githubusercontent.com" alt="python" width="40" height="40""")/>>
-  <img src="https://upload.wikimedia.org" alt="matlab" width="40" height="40""")/>>
-  
-  <!-- EDA Tools -->
-  <img src="https://www.edge-ai-vision.com" alt="cadence" width="70" height="35""")/>>
-  <img src="https://encrypted-tbn0.gstatic.com" alt="Synopsys" width="40" height="40""")/>>
-  <img src="https://pbs.twimg.com" alt="LTspice" width="40" height="40""")/>>
-  <img src="https://encrypted-tbn0.gstatic.com" alt="Vivado" width="40" height="40""")/>>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app" alt="tirumala1436" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
